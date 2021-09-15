@@ -22,3 +22,4 @@ This script may be easily adapted to suit any election. Here are some examples o
 
 1) The script could be expanded to include all the counties of the state.
 2) The script could be modified to handle election results per census tract.
+3) The script could be expanded to included results of each candidate per county.
